@@ -1,0 +1,6 @@
+movie_id,title,genres,overview,keywords,cast,crew
+1,Inception,"['Action', 'Sci-Fi']","A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea.","['dream', 'subconscious', 'heist']","['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Ellen Page']","[{\"job\": \"Director\", \"name\": \"Christopher Nolan\"}]"
+2,The Notebook,"['Romance', 'Drama']","A young couple fall in love in the 1940s.","['love', 'romance', 'memory']","['Ryan Gosling', 'Rachel McAdams']","[{\"job\": \"Director\", \"name\": \"Nick Cassavetes\"}]"
+3,Avengers: Endgame,"['Action', 'Adventure']","After the devastating events of Infinity War, the Avengers assemble once more.","['superhero', 'time travel', 'battle']","['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo']","[{\"job\": \"Director\", \"name\": \"Anthony Russo\"}]"
+4,Inside Out,"['Animation', 'Family']","After young Riley is uprooted from her Midwest life, her emotions conflict on how best to navigate a new city.","['emotion', 'memory', 'family']","['Amy Poehler', 'Phyllis Smith']","[{\"job\": \"Director\", \"name\": \"Pete Docter\"}]"
+5,The Conjuring,"['Horror', 'Thriller']","Paranormal investigators help a family terrorized by a dark presence.","['haunted', 'ghost', 'exorcism']","['Vera Farmiga', 'Patrick Wilson']","[{\"job\": \"Director\", \"name\": \"James Wan\"}]"
